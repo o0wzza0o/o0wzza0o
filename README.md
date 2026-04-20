@@ -24,9 +24,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0wzza0o&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o0wzza0o&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wzza0o&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=o0wzza0o&theme=tokyonight" />
 </p>
 
 ---
