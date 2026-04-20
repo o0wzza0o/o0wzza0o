@@ -34,14 +34,14 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://mix-app.online/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" />
+  <a href="https://mix-app.online/" target="_blank" title="Website">
+    <img src="https://img.icons8.com/fluency/48/domain.png"/>
   </a>
-  <a href="https://www.instagram.com/almkskey.pro/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/almkskey.pro/" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
-  <a href="https://www.tiktok.com/@almkseky.pro" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
+  <a href="https://www.tiktok.com/@almkskey.pro" target="_blank" title="TikTok">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png"/>
   </a>
 </p>
 
