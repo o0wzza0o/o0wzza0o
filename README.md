@@ -32,9 +32,17 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://www.instagram.com/almkskey.pro/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.tiktok.com/@almkskey.pro"><img src="https://skillicons.dev/icons?i=tiktok" /></a>
+  <a href="https://mix-app.online/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" />
+  </a>
+  <a href="https://www.instagram.com/almkskey.pro/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@almkseky.pro" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" />
+  </a>
 </p>
 
 ---
