@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h3 align="center">Full Stack Developer & Software Engineer 🚀</h3>
 
-<!--
-**o0wzza0o/o0wzza0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building scalable web, mobile & system solutions 💻
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on **Mix Host**
+- 💡 Passionate about building **APIs, Systems & Automation**
+- 🧠 Exploring **AI & Machine Learning**
+- ⚡ I build: Web • Mobile • Desktop • Games
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,next,node,python,java,cs,cpp,dart,flutter,mysql,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0wzza0o&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wzza0o&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/almkskey.pro/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.tiktok.com/@almkskey.pro"><img src="https://skillicons.dev/icons?i=tiktok" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I turn ideas into real products 😏🔥
