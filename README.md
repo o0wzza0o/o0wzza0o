@@ -10,8 +10,8 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **Mix Host**
 - 💡 Passionate about building **APIs, Systems & Automation**
-- 🧠 Exploring **AI & Machine Learning**
-- ⚡ I build: Web • Mobile • Desktop • Games
+- 🧠 Exploring **Machine Learning**
+- ⚡ I build: Web • Mobile • Desktop • Games • Systems
 
 ---
 
